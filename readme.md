@@ -3,7 +3,7 @@
 # Double-Bench
 
 <div align="center">
-📖<a href="http://arxiv.org/abs/2508.03644">Paper</a> | 🏠<a href="https://entroplay.ai/research/double-bench">Homepage</a> | 🤗<a href="https://huggingface.co/datasets/Episoode/Double-Bench">Huggingface</a>
+📖<a href="http://arxiv.org/abs/2508.03644">Paper</a> | 🏠<a href="https://double-bench.github.io">Homepage</a> | 🤗<a href="https://huggingface.co/datasets/Episoode/Double-Bench">Huggingface</a>
 </div>
 
 ## 🚀Overview
